@@ -1,0 +1,5 @@
+Extraversion: low
+Agreeableness: high
+Conscientiousness: high
+Emotional Stability: low
+Openness to Experience: high
